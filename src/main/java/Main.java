@@ -12,9 +12,6 @@ import java.util.Arrays;
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("DAA Assignment 4: Dynamic Programming & String Algorithms");
-        System.out.println("Author: Nursayat Bashan");
-        System.out.println("---------------------------------------------------------");
 
         // Quick Demonstration of Reference Values
         RecursiveEditDistance rec = new RecursiveEditDistance();
